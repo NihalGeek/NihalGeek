@@ -25,7 +25,7 @@
 - Frontend Development (HTML, CSS, JavaScript)  
 - React.js  
 
-🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills!
+🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills in **development** and **cybersecurity**!
 
   </td>
   <td>
