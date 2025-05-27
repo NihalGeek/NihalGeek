@@ -2,8 +2,12 @@
   <img src="https://cdn.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="Mario Coding GIF" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there+👋+I'm+Nihal+Somarajupalli!" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
-🎓 Hi, I'm **Nihal**, a 2nd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
+🎓 Welcome to my GitHub profile!, I'm a 2nd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
 
 💻 **Currently Learning:**  
 - C++ (with a focus on Object-Oriented Programming)  
@@ -36,6 +40,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ### 📊 ML/DS Tools:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
