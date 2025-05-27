@@ -2,9 +2,9 @@
   <img src="https://cdn.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" alt="Mario Coding GIF" />
 </p>
 
-<div style="text-align: center; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there+👋+I'm+Nihal!" alt="Typing SVG" style="display: inline-block;" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there+👋+I'm+Nihal!" alt="Typing SVG" />
+</p>
 
 # 💫 About Me:
 
@@ -25,31 +25,26 @@
 - Frontend Development (HTML, CSS, JavaScript)  
 - React.js  
 
-🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills!
+🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills in **development** and **cybersecurity**!
 
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coder GIF" />
-    </td>
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coder GIF" />
+  </td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Connect with Me:
-
 <a href="https://linkedin.com/in/nihal-somarajupalli-19219728a/" target="_blank" rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="40" style="vertical-align: middle;">
 </a>
 
-<a href="https://codolio.com/profile/nihal_somarajupalli" target="_blank" rel="noopener noreferrer">
-  <img src="https://codolio-pt.vercel.app/codolio_assets/gif-owl-transparent.GIF" alt="Codolio" width="40" style="vertical-align: middle;">
-</a>
 
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -70,5 +65,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
