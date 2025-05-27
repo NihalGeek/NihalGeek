@@ -3,11 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there+👋+I'm+Nihal!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there+👋+I'm+Nihal+Somarajupalli!" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
-🎓 Welcome to my GitHub profile!, I'm a 2nd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
+
+<table>
+  <tr>
+    <td>
+
+🎓 Hi, I'm **Nihal**, a 2nd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
 
 💻 **Currently Learning:**  
 - C++ (with a focus on Object-Oriented Programming)  
@@ -18,9 +23,16 @@
 
 🌱 **Planning to Learn:**  
 - Frontend Development (HTML, CSS, JavaScript)  
-- React.js
+- React.js  
 
 🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills in **development** and **cybersecurity**!
+
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coder GIF" />
+  </td>
+  </tr>
+</table>
 
 ---
 
