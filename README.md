@@ -37,9 +37,15 @@
 ---
 
 ## 🌐 Connect with Me:
+
 <a href="https://linkedin.com/in/nihal-somarajupalli-19219728a/" target="_blank" rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="40" style="vertical-align: middle;">
 </a>
+
+<a href="https://codolio.com/profile/nihal_somarajupalli" target="_blank" rel="noopener noreferrer">
+  <img src="https://codolio-pt.vercel.app/codolio_assets/gif-owl-transparent.GIF" alt="Codolio" width="40" style="vertical-align: middle;">
+</a>
+
 
 
 
