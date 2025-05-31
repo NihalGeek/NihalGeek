@@ -72,6 +72,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/StackOverflow-Dark.svg" width="40" alt="StackOverflow" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" width="40" alt="Docker" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="40" alt="LinkedIn" style="margin-right:10px;" />
+   <img src="https://miro.medium.com/v2/resize:fit:695/1*UnUo_KuVO3gVcrwPqiAzAg.png" alt="GeeksforGeeks" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="40" alt="Linux" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Replit-Dark.svg" width="40" alt="Replit" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" width="40" alt="scikit-learn" style="margin-right:10px;" />
@@ -79,6 +80,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" width="40" alt="TensorFlow" style="margin-right:10px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" alt="Hashcat" style="margin-right:10px;" />
   <img src="https://play-lh.googleusercontent.com/ZI21NMObsjB7DbPU_EXRymHJL3HQpfsrB2N4CWb-diXm4xjl_13mmetYQZvcpgGf-64" alt="GeeksforGeeks" width="40" height="40" />
+ 
 
 </p>
 
