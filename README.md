@@ -19,7 +19,6 @@
 - Data Structures & Algorithms (DSA)  
 - MySQL  
 - Operating Systems Concepts  
-- Database Management Systems (DBMS)
 
 🌱 **Planning to Learn:**  
 - Frontend Development (HTML, CSS, JavaScript)  
