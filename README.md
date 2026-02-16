@@ -12,7 +12,7 @@
   <tr>
     <td>
 
-🎓 I'm a 2nd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
+🎓 I'm a 3rd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
 
 💻 **Currently Learning:**  
 - C++ (with a focus on Object-Oriented Programming)  
