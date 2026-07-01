@@ -12,19 +12,7 @@
   <tr>
     <td>
 
-🎓 I'm a 3rd-year Computer Science & Engineering student specializing in **Cyber Security and Digital Forensics** at **VIT Bhopal University**.
-
-💻 **Currently Learning:**  
-- C++ (with a focus on Object-Oriented Programming)  
-- Data Structures & Algorithms (DSA)  
-- MySQL  
-- Operating Systems Concepts  
-
-🌱 **Planning to Learn:**  
-- Frontend Development (HTML, CSS, JavaScript)  
-- React.js  
-
-🚀 I'm excited to build real-world projects, contribute to open-source, and grow my skills!
+Final-year Computer Science Engineering student at VIT Bhopal University, specializing in Cybersecurity and Digital Forensics. Passionate about coding, cybersecurity, and learning how technology works at a deeper level. I enjoy solving problems, building projects, and continuously exploring areas like AI, system security, and software development. Always eager to learn new technologies, improve my technical skills, and work on real-world challenges that help me grow as a developer and security enthusiast
   </td>
   <td>
     <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coder GIF" />
