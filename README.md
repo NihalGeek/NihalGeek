@@ -67,7 +67,7 @@ Final-year Computer Science Engineering student at VIT Bhopal University, specia
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" alt="Hashcat" style="margin-right:10px;" />
   <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8Z9Io7ZLEcD9z2qXHBXJFc_0q9OAAkA9VDvBKv2LXw&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_79RcHBE7LgE4fthT3pud-sPrurpKgy8GTMTDW5hWw&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
-  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZQInWvG_6l6oBjD2e7ZxIX-eR1LunL1uGO7CuKbxMXAAm7TiY5zKO3mk&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-LzOKdQ7zuWDhjGsta7JQkPvTs8Qdsy7anojJUTKHGOdFY0W9Zz2Vg6E&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
  
  
 
