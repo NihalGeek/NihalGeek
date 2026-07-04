@@ -65,6 +65,7 @@ Final-year Computer Science Engineering student at VIT Bhopal University, specia
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="40" alt="PyTorch" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" width="40" alt="TensorFlow" style="margin-right:10px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" alt="Hashcat" style="margin-right:10px;" />
+  <https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8Z9Io7ZLEcD9z2qXHBXJFc_0q9OAAkA9VDvBKv2LXw&s=10>
  
  
 
