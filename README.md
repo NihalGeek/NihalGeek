@@ -66,6 +66,9 @@ Final-year Computer Science Engineering student at VIT Bhopal University, specia
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" width="40" alt="TensorFlow" style="margin-right:10px;" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" alt="Hashcat" style="margin-right:10px;" />
   <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW8Z9Io7ZLEcD9z2qXHBXJFc_0q9OAAkA9VDvBKv2LXw&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz_79RcHBE7LgE4fthT3pud-sPrurpKgy8GTMTDW5hWw&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
+  <img srx ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu4YL71hm8NmWFnIcDS_xMbnO6DsjPZE4Rl4sS6y_kgXnDUcguhMyWxiM&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
+  <img src ="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/tryhackme-vpbxyth62mbot3imfcpb08.png/tryhackme-anodupj9mqt3ekhc90qmo9.png?_a=DATAiZiuZAA0&s=10&s" width="40" alt="Hashcat" style="margin-right:10px;" /">
  
  
 
